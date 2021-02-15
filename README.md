@@ -1,2 +1,2 @@
-# Pong_UE
+# Pong Game
 Simple Pong Game Made In Unreal
